@@ -11,4 +11,20 @@
     "whatsapp": "+33612345678",
     "email": null
   }
+  {
+    "name": "Lucas V.",
+    "avatar": "TV",
+    "specialty": "Musculation & Force",
+    "price": "45€/séance",
+    "badge": "Pro",
+    "bio": "8 ans d'expérience. Ancien athlète de compétition, spécialisé en hypertrophie et force maximale.",
+    "online": true,
+    "tags": [
+      "Powerlifting",
+      "Hypertrophie",
+      "Nutrition"
+    ],
+    "whatsapp": "+33612345678",
+    "email": null
+  }
 ]
