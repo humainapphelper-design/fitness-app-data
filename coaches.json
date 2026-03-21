@@ -5,20 +5,26 @@
     "specialty": "Musculation & Force",
     "price": "45€/séance",
     "badge": "Pro",
-    "bio": "8 ans d'expérience. Ancien athlète de compétition, spécialisé en hypertrophie et force maximale.",
-    "online": true,
+    "bio": "8 ans d'expérience. Spécialisé en hypertrophie et force maximale.",
+    "remote": false,
+    "gyms": ["Basic-Fit Nivelles", "Basic-Fit Namur"],
     "tags": ["Powerlifting", "Hypertrophie", "Nutrition"],
-    "whatsapp": "+33612345678"
+    "whatsapp": "+33612345678",
+    "email": null
   },
   {
-    "name": "Lucas V.",
-    "avatar": "LV",
-    "specialty": "Musculation & Force",
-    "price": "45€/séance",
-    "badge": "Pro",
-    "bio": "8 ans d'expérience. Ancien athlète de compétition, spécialisé en hypertrophie et force maximale.",
-    "online": true,
-    "tags": ["Powerlifting", "Hypertrophie", "Nutrition"],
-    "whatsapp": "+33612345678"
+    "name": "Marie L.",
+    "avatar": "ML",
+    "specialty": "Remise en forme & Cardio",
+    "price": "35€/séance",
+    "badge": "Certifié",
+    "bio": "Diplômée BPJEPS, 5 ans d'accompagnement.",
+    "remote": true,
+    "gyms": [],
+    "tags": ["Cardio", "Perte de poids", "Yoga"],
+    "whatsapp": null,
+    "email": "marie@humain.app",
+    "rating": 4.8,
+    "reviews": 12
   }
 ]
