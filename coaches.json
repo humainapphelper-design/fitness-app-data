@@ -6,7 +6,7 @@
     "price": "45€/séance",
     "badge": "Pro",
     "bio": "8 ans d'expérience. Spécialisé en hypertrophie et force maximale.",
-    "remote": false,
+    "remote": true,
     "gyms": ["Basic-Fit Nivelles", "Basic-Fit Namur"],
     "tags": ["Powerlifting", "Hypertrophie", "Nutrition"],
     "whatsapp": null,
