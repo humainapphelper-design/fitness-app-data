@@ -1,9 +1,9 @@
 [
   {
-    "name": "Thomas V.",
+    "name": "Fictif",
     "avatar": "TV",
     "specialty": "Musculation & Force",
-    "price": "45€/séance",
+    "price": "1€/séance",
     "badge": "Pro",
     "bio": "8 ans d'expérience. Spécialisé en hypertrophie et force maximale.",
     "remote": true,
@@ -14,10 +14,10 @@
   
   },
   {
-    "name": "Marie L.",
+    "name": "M. Fictif.",
     "avatar": "ML",
     "specialty": "Remise en forme & Cardio",
-    "price": "35€/séance",
+    "price": "1€/séance",
     "badge": "Certifié",
     "bio": "Diplômée BPJEPS, 5 ans d'accompagnement.",
     "remote": true,
